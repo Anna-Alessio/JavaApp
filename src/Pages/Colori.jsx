@@ -37,7 +37,7 @@ export default function Colori(params) {
                         {/* FRECCIA, TITOLO PAGINA E ICONA */}
 
                     
-        {/* CARD QUANDO INSERISCO LE PERCENTUALI L'IMMAGINE SI RIMPICCIOLISCE quindi ho messo 100%*/}
+
 
         <div className="h-[100vh] flex flex-wrap justify-center">
 
