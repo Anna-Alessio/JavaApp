@@ -65,18 +65,6 @@ return(
 
                     }
 
-                {/* <div className="w-[43%] md:w-[100%] bg-primario h-44 m-3 md:h-60 flex flex-col justify-center items-center">
-
-                        <h2 className="text-center text-secondario">titolo card</h2>
-                        <img className="w-[83%] md:w-[60%] rounded-md" src="/src/assets/media/bn4.jpeg" alt="" />
-                        <p className="text-center text-secondario">photoart.com</p>
-
-                </div> */}
-                
-                {/* CARD QUANDO INSERISCO LE PERCENTUALI L'IMMAGINE SI RIMPICCIOLISCE quindi ho messo 100%*/}
-
-
-            
                 
 
 
