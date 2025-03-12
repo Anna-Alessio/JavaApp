@@ -47,24 +47,7 @@ return(
         <Button to="/choosing/colori">COLORI</Button>
 
        
-            {/* NON MI SPAZIA I BOTTONI NONOSTANTE HO INSERITO LE ISTRUZIONI NEL DIV */}
-        
-            {/* <button>
-
-            <a href=""></a>
-
-            <p>B/N</p>
-
-            </button>
-
-            <button>
-
-            <a href=""></a>
-
-            <p>COLORI</p>
-        
-            </button> */}
-
+           
 
     </div>
 
