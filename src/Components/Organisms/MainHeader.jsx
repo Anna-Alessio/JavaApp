@@ -26,22 +26,6 @@ export default function MainHeader({title , subtitle}) {
               </header>
 
 
-                {/* <header className="text-center">
-
-                
-                <img className="mx-auto max-w-sm" src="./src/assets/media/logo1.png" alt="" />
-            
-                <h1 className="text-2xl font-normal text-secondario">PhotoArt <i class="fa-solid fa-camera-retro text-primario"></i></h1>
-          
-                <h3 className="text-xl mt-2 text-secondario">Scatta 
-
-                // <span className="text-primario"> Esplora. Crea Emozioni.</span>
-
-                </h3>
-                
-
-              </header> */}
-
 
             </>
 
