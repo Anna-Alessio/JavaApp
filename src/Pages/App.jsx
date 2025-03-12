@@ -8,7 +8,7 @@ export default function App() {
 
   return (
     <>
-          {/* Main Loyouts è un children in cui viene inserito il contenuto */}
+        
         <MainLayout>
 
             {/* HEADER */}
